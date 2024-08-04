@@ -1,0 +1,1501 @@
+Order ID,Amount,Profit,Quantity,Category,Sub-Category,PaymentMode
+B-25681,3049,392,7,Electronics,Electronic Games,COD
+B-26055,2953,64,14,Furniture,Chairs,EMI
+B-25955,1989,236,8,Furniture,Bookcases,EMI
+B-26093,4548,128,8,Electronics,Printers,Credit Card
+B-25602,1585,89,4,Electronics,Phones,Credit Card
+B-25881,2975,213,4,Clothing,Trousers,Credit Card
+B-25696,3354,420,4,Clothing,Saree,COD
+B-25687,4061,253,5,Clothing,Saree,UPI
+B-25643,2197,198,2,Clothing,Hankerchief,UPI
+B-25851,501,59,5,Clothing,Kurti,COD
+B-25703,602,239,9,Clothing,Hankerchief,COD
+B-25887,114,205,6,Electronics,Printers,EMI
+B-25923,1364,381,6,Electronics,Phones,Credit Card
+B-25756,1823,14,5,Furniture,Bookcases,UPI
+B-25761,1057,236,5,Furniture,Bookcases,Credit Card
+B-25655,3230,206,1,Clothing,Hankerchief,UPI
+B-25786,3605,289,5,Furniture,Bookcases,Credit Card
+B-26095,4128,321,1,Clothing,Kurti,UPI
+B-25853,3270,183,5,Furniture,Chairs,Credit Card
+B-25735,4320,153,2,Clothing,Skirt,UPI
+B-25910,1089,201,5,Furniture,Tables,Credit Card
+B-25950,3384,344,5,Electronics,Printers,Credit Card
+B-25744,259,126,6,Electronics,Printers,UPI
+B-25845,2898,70,4,Clothing,Kurti,COD
+B-26001,4110,313,2,Clothing,Skirt,UPI
+B-25830,2185,229,3,Electronics,Phones,Credit Card
+B-25842,2574,26,8,Electronics,Printers,Credit Card
+B-25778,51,452,6,Electronics,Printers,Credit Card
+B-25686,2581,45,6,Furniture,Tables,Credit Card
+B-25754,2288,429,3,Clothing,Skirt,UPI
+B-26048,2975,425,5,Furniture,Tables,EMI
+B-25816,1936,273,8,Clothing,Stole,COD
+B-26022,2478,427,8,Electronics,Phones,Credit Card
+B-25883,466,77,4,Clothing,Hankerchief,UPI
+B-26003,1652,312,2,Furniture,Tables,Credit Card
+B-26097,1440,320,5,Electronics,Printers,UPI
+B-25710,3231,29,1,Clothing,Leggings,UPI
+B-25797,4364,429,5,Furniture,Tables,EMI
+B-25618,2828,205,2,Clothing,Hankerchief,UPI
+B-25723,4361,29,2,Clothing,Leggings,UPI
+B-25755,2502,92,3,Clothing,Trousers,Credit Card
+B-25788,1959,109,1,Clothing,Stole,UPI
+B-25681,2311,407,3,Electronics,Phones,EMI
+B-25991,3719,449,2,Clothing,Hankerchief,UPI
+B-25779,2115,356,3,Furniture,Tables,COD
+B-25909,3385,54,3,Electronics,Phones,EMI
+B-25943,3394,139,6,Electronics,Accessories,EMI
+B-25935,403,96,4,Furniture,Chairs,Credit Card
+B-25613,3168,178,9,Clothing,Saree,Credit Card
+B-25729,3428,30,4,Electronics,Phones,Credit Card
+B-25772,897,408,4,Electronics,Printers,EMI
+B-25655,1638,355,8,Clothing,Skirt,UPI
+B-25640,1048,25,13,Clothing,Saree,Credit Card
+B-25810,1815,121,6,Clothing,Saree,EMI
+B-25801,3196,368,1,Clothing,T-shirt,Debit Card
+B-26085,885,195,3,Clothing,Trousers,Credit Card
+B-25868,1861,53,2,Furniture,Tables,Credit Card
+B-25714,2993,89,2,Clothing,Hankerchief,COD
+B-25784,2967,111,1,Clothing,Hankerchief,Debit Card
+B-25608,645,5,5,Furniture,Tables,Credit Card
+B-26051,3344,200,7,Electronics,Printers,Credit Card
+B-25900,1032,251,1,Clothing,Leggings,Debit Card
+B-25760,1642,291,5,Electronics,Printers,UPI
+B-25762,1919,292,7,Electronics,Electronic Games,Credit Card
+B-25995,3634,99,3,Furniture,Bookcases,Credit Card
+B-25965,2851,391,3,Clothing,Hankerchief,Debit Card
+B-25967,2173,256,2,Clothing,Skirt,Debit Card
+B-25674,3183,402,5,Clothing,Skirt,Debit Card
+B-25929,2626,401,3,Furniture,Bookcases,Credit Card
+B-25777,3713,41,4,Electronics,Printers,Credit Card
+B-26006,2633,442,5,Electronics,Accessories,Credit Card
+B-25697,2380,388,8,Electronics,Printers,Credit Card
+B-25667,2460,319,4,Clothing,Hankerchief,COD
+B-25836,4226,356,9,Electronics,Printers,EMI
+B-25984,3627,72,6,Clothing,Stole,UPI
+B-25728,2319,15,4,Electronics,Printers,EMI
+B-25757,4169,150,4,Clothing,Skirt,Debit Card
+B-25957,843,112,3,Clothing,Stole,COD
+B-26061,763,324,3,Electronics,Printers,COD
+B-25735,2077,325,3,Clothing,Hankerchief,COD
+B-25616,2594,7,3,Clothing,Hankerchief,UPI
+B-25666,4169,167,7,Electronics,Electronic Games,COD
+B-25675,237,362,9,Clothing,Saree,COD
+B-26079,944,76,2,Clothing,Hankerchief,Debit Card
+B-25850,3287,292,11,Electronics,Phones,COD
+B-25693,729,129,9,Clothing,Hankerchief,COD
+B-25852,2906,223,4,Furniture,Tables,COD
+B-25860,1198,137,3,Clothing,Kurti,COD
+B-25853,4489,139,6,Clothing,Skirt,UPI
+B-25898,663,317,2,Furniture,Tables,COD
+B-26100,3822,354,2,Furniture,Chairs,COD
+B-25653,1202,83,8,Electronics,Printers,EMI
+B-25839,1059,398,7,Clothing,Saree,EMI
+B-25651,3539,170,7,Furniture,Chairs,COD
+B-25957,1096,230,9,Furniture,Bookcases,Credit Card
+B-25704,2020,374,3,Electronics,Accessories,UPI
+B-25730,282,131,3,Electronics,Phones,Credit Card
+B-26052,2330,189,3,Electronics,Accessories,COD
+B-25656,3211,426,2,Clothing,Hankerchief,COD
+B-26033,3493,439,3,Electronics,Accessories,COD
+B-25850,2597,196,2,Clothing,Hankerchief,COD
+B-25945,3262,220,3,Electronics,Electronic Games,COD
+B-26086,3877,50,6,Electronics,Printers,COD
+B-25752,668,314,9,Electronics,Electronic Games,COD
+B-26098,4250,284,5,Clothing,Leggings,UPI
+B-26067,821,166,7,Electronics,Printers,EMI
+B-25730,2605,410,2,Clothing,Hankerchief,Debit Card
+B-25986,3574,451,7,Furniture,Furnishings,COD
+B-26067,1924,373,6,Clothing,Saree,EMI
+B-25953,2742,379,6,Electronics,Printers,COD
+B-25952,2812,105,4,Clothing,Hankerchief,UPI
+B-25903,4183,429,2,Clothing,Hankerchief,Debit Card
+B-25650,1405,123,5,Clothing,Saree,COD
+B-25970,2595,368,2,Furniture,Bookcases,COD
+B-26062,623,199,3,Clothing,Stole,COD
+B-25643,3749,348,8,Furniture,Bookcases,EMI
+B-25632,2559,449,2,Clothing,Leggings,Debit Card
+B-25821,2104,459,1,Clothing,Hankerchief,COD
+B-25878,144,314,5,Furniture,Bookcases,COD
+B-25752,3712,161,6,Electronics,Printers,COD
+B-25750,3000,438,1,Clothing,Shirt,Debit Card
+B-25657,1728,293,4,Electronics,Electronic Games,EMI
+B-25787,3583,332,7,Clothing,Saree,COD
+B-25808,2807,441,6,Clothing,Leggings,COD
+B-25885,2407,192,2,Furniture,Chairs,COD
+B-25778,1759,287,5,Clothing,Saree,Credit Card
+B-25759,4393,92,6,Clothing,Hankerchief,Debit Card
+B-25747,3361,337,2,Furniture,Bookcases,Credit Card
+B-25878,1488,82,6,Furniture,Chairs,COD
+B-25603,3358,205,2,Clothing,Hankerchief,COD
+B-25691,980,171,4,Clothing,Saree,COD
+B-25607,3560,87,4,Clothing,Leggings,COD
+B-25708,4028,439,5,Electronics,Phones,COD
+B-26021,1302,210,3,Clothing,Hankerchief,Debit Card
+B-25831,429,177,6,Clothing,Saree,COD
+B-25850,1378,415,4,Clothing,Hankerchief,COD
+B-25670,1192,306,2,Clothing,Hankerchief,UPI
+B-25852,1065,178,2,Clothing,Hankerchief,COD
+B-26029,686,64,1,Clothing,T-shirt,Debit Card
+B-25959,3753,391,4,Furniture,Chairs,COD
+B-25676,254,349,2,Furniture,Tables,COD
+B-26097,96,300,5,Electronics,Electronic Games,COD
+B-25888,3157,348,3,Electronics,Electronic Games,COD
+B-25911,835,184,1,Clothing,Kurti,COD
+B-25662,1428,110,2,Clothing,T-shirt,COD
+B-25950,180,131,2,Electronics,Printers,COD
+B-25847,1803,140,2,Electronics,Printers,COD
+B-25796,1640,409,6,Clothing,Saree,COD
+B-25693,1003,380,6,Clothing,Saree,COD
+B-25993,392,335,3,Electronics,Printers,COD
+B-26052,1360,409,6,Clothing,Kurti,UPI
+B-25930,3857,103,4,Furniture,Bookcases,COD
+B-25785,3308,228,3,Clothing,Saree,COD
+B-26093,1204,207,5,Furniture,Bookcases,Credit Card
+B-26053,3937,304,3,Furniture,Bookcases,COD
+B-26019,4454,332,13,Clothing,T-shirt,COD
+B-26070,785,111,5,Furniture,Furnishings,COD
+B-25870,1115,224,7,Clothing,Saree,Credit Card
+B-25855,3327,428,4,Electronics,Printers,Credit Card
+B-25602,4162,375,3,Clothing,Saree,COD
+B-25728,81,187,2,Electronics,Phones,Credit Card
+B-25803,2931,153,6,Clothing,Saree,EMI
+B-25996,1991,382,2,Clothing,Hankerchief,COD
+B-26078,3419,12,2,Electronics,Electronic Games,COD
+B-25803,608,16,2,Electronics,Printers,Credit Card
+B-25682,3925,50,11,Electronics,Phones,COD
+B-25749,1671,175,3,Furniture,Bookcases,UPI
+B-25962,2162,429,3,Furniture,Bookcases,COD
+B-25899,2070,359,2,Clothing,Leggings,Debit Card
+B-25845,63,399,2,Electronics,Printers,Credit Card
+B-25951,1320,245,2,Furniture,Bookcases,Credit Card
+B-25828,2485,193,3,Clothing,Saree,COD
+B-25803,1643,289,1,Clothing,Trousers,COD
+B-25656,3011,344,1,Clothing,Hankerchief,COD
+B-25681,3521,73,7,Clothing,Trousers,COD
+B-25658,2653,19,2,Clothing,T-shirt,UPI
+B-25698,3205,122,8,Furniture,Chairs,COD
+B-25832,54,343,3,Furniture,Bookcases,COD
+B-25886,2564,118,4,Electronics,Phones,COD
+B-25897,3602,309,6,Electronics,Electronic Games,Credit Card
+B-25873,3052,236,2,Clothing,Kurti,COD
+B-25858,867,126,4,Clothing,Skirt,COD
+B-25867,2475,340,6,Clothing,Kurti,UPI
+B-25633,1031,201,2,Clothing,Trousers,COD
+B-25609,704,402,4,Electronics,Electronic Games,COD
+B-25896,776,28,3,Clothing,Skirt,UPI
+B-26000,31,6,3,Electronics,Printers,Credit Card
+B-25959,1173,367,2,Clothing,Hankerchief,Debit Card
+B-25940,2650,16,2,Clothing,Hankerchief,COD
+B-26087,3957,155,8,Clothing,Stole,COD
+B-26055,585,255,9,Electronics,Phones,Credit Card
+B-25980,2035,181,3,Clothing,Kurti,COD
+B-25653,3182,191,3,Electronics,Printers,Credit Card
+B-26052,2925,31,3,Clothing,Saree,UPI
+B-25877,3078,198,2,Clothing,Skirt,Debit Card
+B-25608,2748,323,3,Furniture,Chairs,COD
+B-25897,3398,66,5,Clothing,Hankerchief,Debit Card
+B-25881,3168,17,3,Clothing,Hankerchief,COD
+B-25905,1890,142,6,Clothing,Stole,UPI
+B-25818,4554,168,2,Clothing,Leggings,UPI
+B-25835,596,443,5,Clothing,Leggings,COD
+B-26081,905,371,3,Clothing,Hankerchief,Debit Card
+B-25730,3535,16,4,Furniture,Chairs,COD
+B-25837,1653,208,5,Clothing,Stole,COD
+B-25893,1542,147,3,Clothing,Kurti,COD
+B-25689,2669,7,3,Electronics,Electronic Games,COD
+B-26028,3734,189,2,Electronics,Phones,COD
+B-26081,711,71,3,Electronics,Accessories,COD
+B-25903,1693,334,3,Clothing,Leggings,Debit Card
+B-25651,2580,369,4,Clothing,Saree,COD
+B-25903,970,456,8,Electronics,Accessories,COD
+B-26086,1628,333,2,Clothing,Hankerchief,Debit Card
+B-25654,1337,407,3,Electronics,Printers,COD
+B-25720,2265,74,1,Furniture,Chairs,COD
+B-26057,1889,173,2,Furniture,Bookcases,Credit Card
+B-25798,2250,325,2,Electronics,Printers,COD
+B-25961,767,439,3,Electronics,Printers,COD
+B-25701,4107,85,2,Furniture,Chairs,UPI
+B-26055,4545,112,1,Clothing,Saree,COD
+B-25653,3928,260,7,Electronics,Phones,COD
+B-25670,3037,268,2,Furniture,Bookcases,Credit Card
+B-26056,190,357,2,Clothing,Saree,COD
+B-26061,850,84,2,Clothing,T-shirt,Debit Card
+B-25602,1763,223,5,Electronics,Phones,COD
+B-26016,2439,440,4,Clothing,Hankerchief,COD
+B-25873,2638,6,2,Electronics,Phones,UPI
+B-25761,4069,141,7,Electronics,Phones,COD
+B-25819,2307,156,3,Electronics,Electronic Games,COD
+B-25853,211,128,4,Clothing,Stole,UPI
+B-25662,2453,229,11,Furniture,Furnishings,UPI
+B-25993,4176,63,3,Electronics,Phones,COD
+B-25703,2868,147,4,Clothing,Saree,COD
+B-25848,2256,53,6,Electronics,Electronic Games,Credit Card
+B-25678,4166,209,2,Clothing,Shirt,Debit Card
+B-25925,2914,370,1,Clothing,Stole,Debit Card
+B-25977,3952,394,1,Clothing,Stole,UPI
+B-25797,1580,16,9,Furniture,Chairs,COD
+B-26067,1432,81,4,Clothing,Hankerchief,COD
+B-25810,327,360,5,Clothing,Hankerchief,UPI
+B-25648,344,320,1,Clothing,T-shirt,UPI
+B-25933,3181,351,6,Clothing,Saree,COD
+B-25942,3811,159,2,Electronics,Printers,Credit Card
+B-25656,4353,428,5,Clothing,Stole,UPI
+B-26067,1007,147,4,Furniture,Bookcases,Credit Card
+B-25673,4513,39,5,Clothing,Saree,UPI
+B-25797,313,302,2,Clothing,Hankerchief,UPI
+B-26098,2626,231,3,Clothing,Saree,COD
+B-25656,3005,218,2,Clothing,Saree,COD
+B-25791,2313,151,7,Clothing,Saree,Credit Card
+B-26053,2164,264,6,Clothing,Stole,COD
+B-25983,2984,173,5,Furniture,Bookcases,Credit Card
+B-25743,3327,162,2,Clothing,Trousers,COD
+B-25867,4052,50,3,Clothing,Stole,UPI
+B-25973,957,67,8,Clothing,Hankerchief,COD
+B-25895,3943,373,2,Furniture,Bookcases,COD
+B-26003,4075,107,4,Clothing,Saree,UPI
+B-25717,3240,456,3,Clothing,Saree,Credit Card
+B-26064,2930,443,4,Clothing,Hankerchief,COD
+B-25630,2969,261,4,Clothing,T-shirt,COD
+B-26050,3620,433,3,Clothing,Shirt,UPI
+B-25786,4221,172,3,Furniture,Tables,UPI
+B-26035,396,88,3,Electronics,Phones,Credit Card
+B-25693,2774,16,6,Clothing,Saree,UPI
+B-25703,3162,328,5,Clothing,Hankerchief,UPI
+B-25966,3946,210,6,Electronics,Electronic Games,EMI
+B-26060,4015,398,3,Clothing,Saree,COD
+B-25898,3784,228,3,Clothing,Leggings,UPI
+B-25686,3419,107,2,Clothing,Saree,COD
+B-26051,3140,129,2,Electronics,Accessories,EMI
+B-25854,2700,143,2,Clothing,Saree,COD
+B-26050,3619,103,4,Electronics,Phones,EMI
+B-25961,1869,230,3,Furniture,Bookcases,COD
+B-25701,1506,271,3,Clothing,Shirt,UPI
+B-25970,2359,333,3,Electronics,Phones,COD
+B-25933,1395,316,2,Clothing,Saree,UPI
+B-26081,984,279,5,Furniture,Bookcases,COD
+B-25650,3882,66,8,Electronics,Phones,COD
+B-25850,3567,413,4,Clothing,Saree,EMI
+B-25643,919,392,4,Clothing,Shirt,UPI
+B-26100,2938,107,2,Clothing,T-shirt,Debit Card
+B-25964,1645,237,3,Furniture,Chairs,COD
+B-25676,1829,442,4,Electronics,Electronic Games,COD
+B-25628,4577,329,2,Furniture,Furnishings,Debit Card
+B-25891,3720,184,4,Clothing,Stole,UPI
+B-25903,3037,131,2,Electronics,Phones,COD
+B-25851,4333,161,3,Furniture,Bookcases,COD
+B-26089,654,277,1,Clothing,Hankerchief,COD
+B-25996,3225,328,2,Electronics,Phones,COD
+B-25881,1312,328,3,Clothing,Leggings,Debit Card
+B-25621,3196,184,3,Electronics,Phones,COD
+B-25727,2966,83,4,Clothing,Trousers,COD
+B-25843,1989,289,3,Clothing,Hankerchief,UPI
+B-26050,974,245,7,Clothing,T-shirt,COD
+B-25741,280,116,7,Electronics,Electronic Games,EMI
+B-25756,4284,275,4,Electronics,Phones,EMI
+B-25787,158,113,3,Clothing,Shirt,COD
+B-25603,1686,162,6,Clothing,Stole,COD
+B-25655,613,276,7,Furniture,Chairs,COD
+B-26096,2069,33,3,Electronics,Phones,EMI
+B-25962,3714,316,1,Electronics,Electronic Games,COD
+B-26007,916,242,2,Furniture,Bookcases,COD
+B-26088,1016,349,2,Clothing,Hankerchief,UPI
+B-25673,1936,144,3,Clothing,T-shirt,Debit Card
+B-25664,4039,294,4,Electronics,Phones,EMI
+B-25642,42,161,11,Clothing,Shirt,Credit Card
+B-25987,1677,383,6,Clothing,Stole,COD
+B-25903,3949,22,3,Clothing,Hankerchief,Debit Card
+B-25770,1948,326,2,Furniture,Bookcases,COD
+B-25840,3705,177,2,Furniture,Bookcases,COD
+B-25846,40,67,7,Clothing,Leggings,UPI
+B-25745,2650,434,11,Clothing,Saree,COD
+B-26073,3236,263,3,Clothing,Hankerchief,Debit Card
+B-26030,1826,23,2,Electronics,Printers,COD
+B-25678,2633,349,1,Electronics,Phones,COD
+B-26035,3141,324,11,Clothing,Saree,COD
+B-25896,223,296,6,Clothing,Kurti,COD
+B-25989,3115,410,1,Electronics,Accessories,UPI
+B-26016,819,8,3,Electronics,Electronic Games,Credit Card
+B-26009,868,384,2,Electronics,Printers,COD
+B-25915,2738,367,1,Electronics,Electronic Games,COD
+B-25845,3779,354,4,Electronics,Phones,COD
+B-25645,2464,74,4,Electronics,Phones,COD
+B-25803,4173,13,1,Electronics,Electronic Games,COD
+B-26030,256,457,1,Clothing,Skirt,COD
+B-25955,1046,4,2,Clothing,Saree,Debit Card
+B-26096,737,294,3,Clothing,Trousers,COD
+B-25635,2744,297,3,Clothing,Hankerchief,Debit Card
+B-26038,2056,357,2,Clothing,T-shirt,Debit Card
+B-25791,1040,20,2,Clothing,Saree,UPI
+B-26014,1486,148,7,Furniture,Chairs,Credit Card
+B-25751,2859,167,3,Clothing,Hankerchief,COD
+B-25962,3630,440,2,Electronics,Printers,COD
+B-26025,1903,25,5,Clothing,Hankerchief,Debit Card
+B-26048,1442,91,6,Furniture,Chairs,Credit Card
+B-25635,427,383,3,Clothing,Saree,Credit Card
+B-25981,3951,401,5,Electronics,Phones,COD
+B-25610,3477,328,3,Clothing,Saree,Debit Card
+B-25733,1278,151,7,Clothing,Stole,Debit Card
+B-25977,430,265,3,Clothing,Stole,COD
+B-25655,4511,127,3,Clothing,Hankerchief,Debit Card
+B-25612,1845,314,2,Furniture,Chairs,COD
+B-25608,298,399,5,Clothing,Hankerchief,COD
+B-25752,1610,331,5,Clothing,Stole,COD
+B-25700,302,372,3,Clothing,Stole,Debit Card
+B-25856,2412,381,2,Clothing,Saree,COD
+B-26026,1760,184,9,Clothing,Hankerchief,COD
+B-25861,4543,154,3,Clothing,Hankerchief,Debit Card
+B-25673,3928,335,4,Clothing,Shirt,COD
+B-25681,989,173,1,Clothing,Saree,Debit Card
+B-26051,1512,417,2,Clothing,Saree,Credit Card
+B-25951,2931,213,3,Clothing,Trousers,COD
+B-25799,1536,76,2,Furniture,Chairs,COD
+B-26053,4499,404,2,Furniture,Bookcases,COD
+B-26030,2253,339,5,Clothing,Stole,COD
+B-26054,3467,223,5,Clothing,Hankerchief,COD
+B-25696,2530,408,3,Clothing,Kurti,Debit Card
+B-25660,4589,122,3,Clothing,Saree,COD
+B-25858,118,382,2,Clothing,Saree,COD
+B-26045,4458,451,7,Clothing,Stole,Credit Card
+B-25850,1104,212,3,Clothing,T-shirt,Debit Card
+B-25781,1176,444,2,Clothing,Stole,Debit Card
+B-25918,1174,447,5,Furniture,Furnishings,COD
+B-25971,3857,289,2,Furniture,Bookcases,COD
+B-25870,1448,321,1,Clothing,Kurti,UPI
+B-25770,2622,101,3,Furniture,Bookcases,Credit Card
+B-25757,3503,437,5,Clothing,Skirt,Debit Card
+B-25699,4339,166,2,Clothing,Stole,UPI
+B-25776,107,214,2,Clothing,Kurti,Debit Card
+B-25893,4343,373,7,Clothing,Stole,Credit Card
+B-25985,2601,414,5,Clothing,Hankerchief,UPI
+B-25681,4291,136,2,Furniture,Chairs,COD
+B-26063,2262,93,4,Electronics,Electronic Games,COD
+B-26032,449,74,5,Clothing,Saree,Debit Card
+B-26001,4540,297,6,Clothing,Skirt,Debit Card
+B-26056,3667,378,2,Clothing,Hankerchief,COD
+B-25850,1106,64,3,Clothing,Stole,COD
+B-25767,2997,105,3,Electronics,Electronic Games,UPI
+B-25693,1609,139,1,Electronics,Phones,UPI
+B-25850,3428,332,5,Clothing,Leggings,Debit Card
+B-25796,3597,433,5,Furniture,Chairs,COD
+B-26053,3517,327,3,Clothing,Skirt,COD
+B-25650,2198,107,2,Clothing,Saree,COD
+B-25961,1892,178,3,Clothing,Shirt,COD
+B-26023,1750,150,3,Clothing,Stole,UPI
+B-25809,61,51,1,Clothing,Hankerchief,Debit Card
+B-25621,3264,264,5,Electronics,Electronic Games,COD
+B-25854,3684,225,3,Clothing,Saree,Debit Card
+B-26057,3614,51,4,Clothing,T-shirt,Debit Card
+B-25688,3576,203,5,Clothing,Saree,Credit Card
+B-25885,723,203,7,Clothing,Stole,Credit Card
+B-25753,4478,45,6,Clothing,Trousers,Credit Card
+B-25981,1909,206,3,Clothing,Saree,Debit Card
+B-26055,3678,457,2,Clothing,Shirt,UPI
+B-25714,2037,300,7,Clothing,Shirt,Credit Card
+B-26055,2839,459,5,Clothing,Stole,COD
+B-25989,1707,240,1,Furniture,Bookcases,Credit Card
+B-25710,3390,383,6,Furniture,Furnishings,UPI
+B-25773,2384,251,3,Furniture,Chairs,COD
+B-25661,2591,347,2,Furniture,Chairs,Debit Card
+B-26021,4185,185,1,Clothing,Stole,UPI
+B-26057,3444,305,3,Clothing,Trousers,COD
+B-25858,4048,386,2,Furniture,Bookcases,COD
+B-25857,2542,320,8,Electronics,Accessories,Credit Card
+B-25656,4408,228,2,Clothing,Hankerchief,Debit Card
+B-25999,3063,257,7,Clothing,Shirt,COD
+B-25856,228,432,2,Clothing,Skirt,COD
+B-25926,4500,147,5,Clothing,Leggings,Debit Card
+B-25728,985,124,4,Clothing,Saree,Credit Card
+B-26076,765,282,2,Clothing,Saree,COD
+B-25913,3625,412,7,Clothing,Stole,UPI
+B-25703,1781,35,4,Clothing,Saree,COD
+B-25858,491,153,1,Clothing,Saree,COD
+B-25727,1307,225,6,Clothing,Leggings,Debit Card
+B-26020,3437,297,6,Electronics,Accessories,Credit Card
+B-26003,2663,402,3,Furniture,Chairs,Credit Card
+B-25925,912,223,3,Electronics,Electronic Games,Credit Card
+B-26087,4380,240,1,Electronics,Electronic Games,EMI
+B-25810,1173,235,3,Electronics,Accessories,EMI
+B-25858,3366,3,7,Electronics,Accessories,EMI
+B-25861,4158,58,3,Electronics,Electronic Games,COD
+B-25661,4550,405,2,Furniture,Chairs,Debit Card
+B-25943,3674,6,4,Clothing,Stole,UPI
+B-25955,1141,171,3,Clothing,T-shirt,UPI
+B-26051,2247,25,4,Clothing,Stole,COD
+B-25999,2897,302,2,Clothing,Saree,COD
+B-26083,1505,418,3,Clothing,Leggings,COD
+B-25950,2560,160,5,Clothing,Saree,COD
+B-25625,2220,53,3,Clothing,Leggings,Debit Card
+B-26055,4168,160,14,Clothing,Shirt,COD
+B-26023,3184,197,2,Clothing,Stole,Debit Card
+B-26010,4491,390,3,Clothing,T-shirt,COD
+B-25955,67,359,9,Clothing,T-shirt,EMI
+B-25900,3934,164,2,Electronics,Phones,COD
+B-26089,3845,335,6,Clothing,Kurti,Debit Card
+B-25655,4158,24,9,Clothing,Saree,COD
+B-25979,3075,168,2,Furniture,Bookcases,EMI
+B-26002,3619,431,5,Clothing,Saree,EMI
+B-25635,3049,252,2,Clothing,Skirt,UPI
+B-26084,2488,228,4,Electronics,Electronic Games,COD
+B-25998,4472,169,5,Furniture,Furnishings,COD
+B-25872,319,295,2,Clothing,Shirt,COD
+B-25795,1283,420,2,Electronics,Phones,EMI
+B-25902,2211,99,2,Furniture,Bookcases,UPI
+B-25650,4231,9,3,Clothing,Trousers,EMI
+B-25957,3886,146,1,Clothing,Saree,COD
+B-25793,3158,338,4,Clothing,Hankerchief,Debit Card
+B-25654,1747,146,2,Electronics,Electronic Games,EMI
+B-25750,4244,242,2,Clothing,Saree,COD
+B-25835,3590,385,2,Clothing,Leggings,UPI
+B-25652,3195,282,3,Clothing,Saree,COD
+B-26018,307,290,4,Clothing,Hankerchief,Debit Card
+B-25750,1473,89,2,Furniture,Chairs,COD
+B-25840,2079,410,6,Clothing,Saree,EMI
+B-25756,308,414,3,Furniture,Bookcases,COD
+B-25777,1552,237,7,Clothing,T-shirt,UPI
+B-25750,3075,120,2,Clothing,Saree,COD
+B-25823,4040,45,1,Electronics,Accessories,UPI
+B-26096,1490,231,3,Clothing,Leggings,UPI
+B-25757,532,275,8,Clothing,Stole,COD
+B-25698,3450,204,2,Electronics,Phones,Debit Card
+B-25710,1706,430,4,Clothing,Skirt,UPI
+B-25994,2127,9,5,Electronics,Phones,COD
+B-25950,4392,107,6,Clothing,Shirt,Credit Card
+B-25653,617,64,5,Electronics,Phones,COD
+B-25785,4271,322,3,Clothing,Saree,COD
+B-25863,3599,61,7,Clothing,Stole,COD
+B-25959,3154,73,2,Clothing,Kurti,UPI
+B-25991,4444,359,7,Clothing,Shirt,COD
+B-25680,2962,400,3,Clothing,Saree,COD
+B-25910,4433,101,5,Clothing,Hankerchief,Credit Card
+B-25737,602,378,3,Clothing,Trousers,COD
+B-25853,1809,268,2,Clothing,Hankerchief,UPI
+B-26097,491,115,6,Furniture,Chairs,COD
+B-25875,9,174,2,Clothing,Saree,Credit Card
+B-26031,2821,374,4,Clothing,Leggings,Debit Card
+B-25773,4576,120,3,Furniture,Chairs,Credit Card
+B-25840,3606,341,2,Furniture,Bookcases,Credit Card
+B-25908,508,367,5,Clothing,Kurti,COD
+B-26041,787,308,5,Furniture,Furnishings,COD
+B-26010,1725,38,5,Furniture,Furnishings,COD
+B-25640,904,458,2,Clothing,Trousers,Debit Card
+B-25794,733,18,6,Electronics,Accessories,COD
+B-25987,4007,370,7,Clothing,Hankerchief,UPI
+B-25615,687,435,5,Clothing,Hankerchief,Debit Card
+B-25997,3829,21,2,Electronics,Electronic Games,Credit Card
+B-25981,4321,331,2,Clothing,T-shirt,UPI
+B-25791,3542,56,3,Clothing,Saree,COD
+B-25986,3949,304,5,Clothing,Leggings,Debit Card
+B-25652,3590,309,3,Electronics,Accessories,COD
+B-25952,1791,240,3,Furniture,Chairs,COD
+B-25898,1989,455,2,Electronics,Electronic Games,COD
+B-25785,2157,317,3,Clothing,Saree,COD
+B-25990,1648,361,3,Clothing,Saree,Debit Card
+B-26091,422,275,4,Clothing,Hankerchief,UPI
+B-25604,252,105,2,Clothing,T-shirt,UPI
+B-25754,1061,37,7,Clothing,Kurti,Debit Card
+B-25724,3010,129,2,Furniture,Bookcases,COD
+B-25757,436,4,3,Clothing,Stole,COD
+B-25767,3274,104,2,Electronics,Accessories,Debit Card
+B-25886,3594,83,2,Clothing,Stole,UPI
+B-25621,3925,406,3,Electronics,Electronic Games,Credit Card
+B-25967,939,219,4,Furniture,Furnishings,COD
+B-25691,910,92,3,Clothing,Stole,UPI
+B-25953,3746,49,4,Clothing,T-shirt,UPI
+B-25651,3386,117,1,Clothing,Leggings,COD
+B-25828,4207,147,5,Clothing,Saree,Credit Card
+B-25628,1802,163,4,Clothing,Saree,Credit Card
+B-25703,4369,295,2,Furniture,Furnishings,UPI
+B-25929,4424,250,3,Furniture,Chairs,Credit Card
+B-25748,3064,454,2,Electronics,Electronic Games,COD
+B-25610,1900,101,5,Electronics,Accessories,UPI
+B-25903,3630,346,2,Clothing,Shirt,Debit Card
+B-25878,4534,199,3,Furniture,Furnishings,COD
+B-26056,2625,336,2,Clothing,Hankerchief,UPI
+B-26004,2439,16,2,Electronics,Electronic Games,COD
+B-25699,1665,255,1,Furniture,Furnishings,UPI
+B-26053,4265,142,3,Clothing,Stole,COD
+B-25654,738,365,2,Clothing,Saree,UPI
+B-25954,3281,385,2,Clothing,Leggings,COD
+B-25910,1467,192,7,Clothing,Trousers,UPI
+B-26064,4495,180,5,Clothing,Leggings,Debit Card
+B-25983,3608,348,8,Furniture,Furnishings,COD
+B-26002,575,55,3,Clothing,T-shirt,COD
+B-25650,3402,421,2,Clothing,Saree,Credit Card
+B-26043,1631,443,6,Clothing,Hankerchief,Debit Card
+B-25657,2967,254,5,Clothing,Saree,UPI
+B-25838,4266,191,3,Clothing,Stole,COD
+B-25651,776,13,1,Clothing,Saree,COD
+B-25808,1994,70,4,Clothing,Hankerchief,Credit Card
+B-25973,1708,374,2,Clothing,Shirt,Debit Card
+B-25698,3473,259,3,Clothing,Saree,Credit Card
+B-25818,3998,278,4,Clothing,Kurti,COD
+B-26061,3201,113,1,Electronics,Printers,Credit Card
+B-25878,238,46,4,Clothing,Leggings,COD
+B-26054,4437,21,3,Clothing,Stole,COD
+B-25809,2001,429,3,Clothing,Hankerchief,COD
+B-26042,372,91,3,Clothing,Stole,UPI
+B-26008,3958,12,4,Clothing,Hankerchief,Credit Card
+B-25927,4329,233,4,Electronics,Electronic Games,Credit Card
+B-26008,2742,150,1,Clothing,Saree,Credit Card
+B-25753,1627,258,7,Clothing,T-shirt,COD
+B-25948,1535,324,3,Furniture,Furnishings,COD
+B-26094,3873,48,6,Clothing,Stole,COD
+B-25654,4081,243,3,Furniture,Furnishings,UPI
+B-25854,4418,196,6,Clothing,Stole,COD
+B-25623,3321,419,4,Clothing,Saree,COD
+B-25985,3373,276,4,Clothing,Kurti,Credit Card
+B-25723,4487,122,3,Electronics,Electronic Games,COD
+B-25751,3936,184,2,Electronics,Electronic Games,COD
+B-26050,3885,424,3,Clothing,Saree,Debit Card
+B-25800,1762,106,7,Clothing,Hankerchief,UPI
+B-25673,12,322,1,Clothing,Saree,COD
+B-26002,3416,344,3,Clothing,Stole,Debit Card
+B-26009,3701,65,9,Clothing,Shirt,Credit Card
+B-25754,128,310,3,Clothing,Skirt,UPI
+B-25953,3028,290,3,Clothing,Stole,Debit Card
+B-26039,1854,169,5,Clothing,Shirt,Debit Card
+B-26001,366,411,4,Furniture,Furnishings,COD
+B-25620,958,345,1,Electronics,Printers,Credit Card
+B-26051,387,354,10,Clothing,Hankerchief,Debit Card
+B-25673,2696,53,5,Clothing,Saree,UPI
+B-25721,1497,324,2,Electronics,Phones,COD
+B-25764,680,14,2,Clothing,Kurti,COD
+B-25645,1245,131,4,Clothing,T-shirt,Debit Card
+B-26066,4167,224,2,Clothing,Saree,Debit Card
+B-26003,1521,24,3,Clothing,T-shirt,COD
+B-25712,2697,320,3,Electronics,Phones,Credit Card
+B-25796,722,357,3,Clothing,Saree,COD
+B-25738,1003,220,2,Furniture,Furnishings,UPI
+B-25771,3019,300,3,Clothing,Hankerchief,COD
+B-25950,1905,141,9,Furniture,Furnishings,Credit Card
+B-26038,2412,183,2,Clothing,Stole,COD
+B-26004,3297,121,3,Clothing,Saree,COD
+B-25896,1536,286,8,Clothing,T-shirt,Credit Card
+B-25601,4066,218,4,Electronics,Electronic Games,UPI
+B-25952,750,367,3,Clothing,Saree,COD
+B-25873,1110,130,3,Clothing,Stole,COD
+B-25844,2989,65,2,Clothing,Saree,Debit Card
+B-26054,836,285,2,Clothing,Shirt,Debit Card
+B-25953,2097,413,2,Electronics,Electronic Games,Credit Card
+B-25951,2063,365,2,Clothing,Stole,UPI
+B-26065,1358,357,5,Clothing,Stole,COD
+B-26033,2442,47,1,Furniture,Bookcases,COD
+B-25781,1285,309,4,Clothing,Kurti,COD
+B-26043,4158,132,3,Clothing,Skirt,UPI
+B-25787,925,384,4,Furniture,Furnishings,COD
+B-25664,3946,205,1,Furniture,Bookcases,UPI
+B-25825,237,187,5,Clothing,Saree,COD
+B-25818,2868,405,4,Clothing,Hankerchief,COD
+B-25765,3100,346,3,Clothing,Stole,COD
+B-25853,1937,194,3,Clothing,Hankerchief,UPI
+B-26030,3201,335,3,Clothing,Shirt,UPI
+B-25730,4145,176,4,Electronics,Accessories,Credit Card
+B-26054,291,351,3,Electronics,Accessories,COD
+B-25773,1692,419,2,Clothing,Saree,UPI
+B-25717,3806,229,5,Clothing,Saree,COD
+B-26010,3673,389,2,Clothing,Shirt,UPI
+B-25893,505,133,3,Clothing,Stole,UPI
+B-26076,1758,201,2,Clothing,Stole,UPI
+B-25803,2165,157,5,Clothing,Shirt,COD
+B-25709,2254,299,7,Clothing,Saree,UPI
+B-25755,4361,337,2,Furniture,Chairs,COD
+B-25684,852,400,2,Furniture,Chairs,COD
+B-25739,3650,212,2,Furniture,Chairs,COD
+B-26081,1770,190,3,Clothing,Saree,UPI
+B-25662,3091,246,1,Electronics,Electronic Games,UPI
+B-25845,2152,156,5,Clothing,Stole,COD
+B-26085,519,227,3,Clothing,Saree,COD
+B-25745,2100,303,5,Furniture,Furnishings,COD
+B-25999,2677,366,4,Clothing,Stole,UPI
+B-26082,1052,404,2,Clothing,Stole,UPI
+B-26097,2816,274,2,Clothing,Hankerchief,UPI
+B-25731,2432,86,8,Furniture,Furnishings,COD
+B-25625,973,161,2,Clothing,Hankerchief,UPI
+B-25853,100,9,3,Clothing,Saree,COD
+B-25703,4015,305,9,Clothing,Shirt,Credit Card
+B-26003,271,41,4,Clothing,Hankerchief,COD
+B-25803,4016,111,4,Clothing,Stole,Credit Card
+B-25719,3934,340,2,Clothing,Stole,COD
+B-25883,3034,319,3,Furniture,Furnishings,COD
+B-25891,2644,366,7,Clothing,Hankerchief,UPI
+B-25821,2337,70,3,Electronics,Accessories,COD
+B-25646,2478,233,2,Clothing,Saree,COD
+B-25874,2876,17,5,Clothing,T-shirt,COD
+B-25717,3390,111,3,Clothing,Shirt,COD
+B-26073,4330,111,4,Clothing,Hankerchief,COD
+B-25800,4373,220,9,Electronics,Accessories,COD
+B-25991,2824,247,2,Furniture,Chairs,UPI
+B-25638,4364,138,3,Furniture,Bookcases,Credit Card
+B-26021,2246,335,7,Furniture,Furnishings,COD
+B-25882,4013,222,4,Clothing,Stole,COD
+B-26053,1140,25,1,Furniture,Chairs,COD
+B-25951,2365,210,5,Clothing,Stole,COD
+B-25757,4240,348,5,Clothing,T-shirt,COD
+B-25777,4247,305,6,Clothing,Kurti,COD
+B-26040,3604,73,2,Clothing,Stole,COD
+B-25696,1705,61,3,Electronics,Phones,COD
+B-25977,106,382,4,Clothing,T-shirt,Credit Card
+B-25743,3885,307,1,Clothing,Saree,UPI
+B-25651,1036,412,3,Furniture,Chairs,EMI
+B-25603,1919,311,4,Clothing,Stole,COD
+B-25696,265,203,1,Clothing,Saree,COD
+B-26037,4168,241,7,Clothing,Stole,EMI
+B-26098,3435,139,5,Clothing,Skirt,COD
+B-25697,634,3,3,Clothing,Trousers,COD
+B-25920,1491,157,2,Clothing,T-shirt,UPI
+B-25993,115,249,2,Clothing,Stole,COD
+B-26089,2738,74,3,Clothing,Kurti,COD
+B-25960,4193,140,2,Furniture,Bookcases,EMI
+B-25917,3114,305,2,Clothing,T-shirt,UPI
+B-25825,1320,288,6,Clothing,Stole,COD
+B-25696,1788,450,3,Clothing,Saree,COD
+B-25972,4381,153,2,Electronics,Accessories,COD
+B-25602,3194,27,2,Electronics,Phones,EMI
+B-25736,1851,137,5,Clothing,Skirt,UPI
+B-26003,3366,9,6,Furniture,Furnishings,COD
+B-25970,4062,394,4,Clothing,Stole,COD
+B-25742,3497,79,2,Clothing,Skirt,UPI
+B-25770,21,386,1,Furniture,Furnishings,COD
+B-26098,238,449,2,Clothing,T-shirt,UPI
+B-26050,3056,261,2,Electronics,Accessories,EMI
+B-25778,2969,34,6,Clothing,Saree,COD
+B-25652,2893,431,4,Clothing,Leggings,COD
+B-25999,2472,122,1,Furniture,Furnishings,COD
+B-25909,3802,417,3,Electronics,Accessories,COD
+B-25823,413,421,2,Furniture,Furnishings,UPI
+B-25701,162,458,2,Clothing,Skirt,COD
+B-25855,988,65,3,Clothing,Hankerchief,COD
+B-25654,3745,145,2,Clothing,Stole,UPI
+B-25623,2913,66,2,Clothing,Stole,Debit Card
+B-25641,62,45,1,Furniture,Furnishings,COD
+B-25852,1586,372,5,Clothing,Kurti,COD
+B-25958,3206,125,2,Clothing,Hankerchief,EMI
+B-25802,4503,152,5,Clothing,Saree,UPI
+B-25823,1160,272,2,Furniture,Furnishings,COD
+B-25834,2303,127,1,Clothing,Stole,UPI
+B-25678,1365,444,3,Clothing,Saree,COD
+B-25774,1582,116,2,Furniture,Furnishings,UPI
+B-25904,3523,179,2,Furniture,Chairs,COD
+B-25896,1693,73,2,Clothing,Hankerchief,COD
+B-25796,844,197,1,Clothing,Saree,UPI
+B-25934,1080,303,6,Clothing,Saree,EMI
+B-25750,2659,151,2,Furniture,Furnishings,UPI
+B-25761,2731,156,1,Clothing,Saree,COD
+B-25912,1869,293,6,Clothing,T-shirt,COD
+B-25751,3668,390,1,Clothing,Kurti,UPI
+B-25656,3429,453,9,Clothing,Skirt,COD
+B-25647,2186,64,4,Clothing,Saree,UPI
+B-25861,1701,381,2,Clothing,Hankerchief,UPI
+B-25802,2245,440,2,Clothing,Stole,COD
+B-25901,2515,416,3,Furniture,Furnishings,EMI
+B-25623,1707,444,3,Clothing,Stole,EMI
+B-25751,4217,25,2,Electronics,Phones,EMI
+B-26052,640,200,4,Clothing,T-shirt,COD
+B-25886,3315,317,3,Clothing,Shirt,COD
+B-25804,3499,334,5,Clothing,T-shirt,EMI
+B-25734,2217,320,3,Electronics,Electronic Games,UPI
+B-25610,4017,307,4,Clothing,Stole,EMI
+B-25711,4167,239,4,Clothing,Hankerchief,COD
+B-25985,3321,89,4,Clothing,Shirt,UPI
+B-25864,1691,366,4,Clothing,Stole,COD
+B-25648,1835,346,1,Electronics,Phones,COD
+B-26086,3665,151,2,Clothing,T-shirt,UPI
+B-25835,2038,437,3,Clothing,Stole,EMI
+B-25949,1457,383,3,Clothing,Hankerchief,EMI
+B-25930,1346,157,5,Clothing,Hankerchief,EMI
+B-25655,3154,415,4,Clothing,Saree,EMI
+B-25757,3923,360,2,Furniture,Furnishings,COD
+B-25655,942,185,2,Clothing,Trousers,COD
+B-26033,2488,60,5,Clothing,Shirt,COD
+B-26083,3259,433,1,Electronics,Accessories,COD
+B-25805,2033,306,2,Furniture,Chairs,COD
+B-25955,4570,105,5,Clothing,Stole,Debit Card
+B-25762,920,129,2,Clothing,Saree,UPI
+B-25919,2058,384,7,Clothing,Stole,Debit Card
+B-25853,1106,166,4,Furniture,Furnishings,COD
+B-25925,640,373,3,Furniture,Chairs,UPI
+B-26023,2251,139,3,Furniture,Furnishings,COD
+B-26055,2621,89,2,Clothing,T-shirt,COD
+B-25653,2404,88,1,Electronics,Accessories,COD
+B-25893,3384,76,3,Clothing,Saree,EMI
+B-26052,2794,146,4,Clothing,Kurti,EMI
+B-25830,2267,205,2,Electronics,Accessories,COD
+B-26040,1402,44,4,Clothing,Hankerchief,Debit Card
+B-25981,3530,372,3,Clothing,Stole,COD
+B-25954,3255,234,1,Electronics,Electronic Games,UPI
+B-25889,1847,376,4,Clothing,T-shirt,Debit Card
+B-25810,248,64,2,Clothing,Stole,COD
+B-25637,4127,11,3,Clothing,Shirt,UPI
+B-25801,1043,98,4,Clothing,Leggings,COD
+B-25783,1882,277,6,Clothing,Leggings,UPI
+B-25697,168,4,3,Electronics,Accessories,Debit Card
+B-26028,4329,305,1,Electronics,Accessories,Debit Card
+B-25851,641,155,5,Clothing,T-shirt,COD
+B-25938,2647,157,2,Furniture,Furnishings,COD
+B-25820,2871,193,1,Furniture,Chairs,COD
+B-25850,3141,61,2,Clothing,Trousers,Debit Card
+B-25924,1069,87,2,Furniture,Chairs,UPI
+B-25609,91,252,4,Clothing,Saree,COD
+B-25898,4571,233,3,Clothing,Stole,UPI
+B-25814,4435,358,7,Clothing,T-shirt,EMI
+B-26087,443,4,7,Clothing,Saree,EMI
+B-25901,3649,253,2,Clothing,T-shirt,COD
+B-26025,2742,126,2,Clothing,Stole,COD
+B-25631,3180,391,2,Furniture,Furnishings,COD
+B-25954,1197,364,1,Electronics,Phones,UPI
+B-25956,992,160,4,Clothing,Shirt,COD
+B-26096,907,6,3,Electronics,Accessories,COD
+B-25862,1792,37,4,Clothing,Stole,EMI
+B-26054,4200,107,2,Clothing,Saree,COD
+B-25698,3903,177,5,Clothing,Kurti,COD
+B-25606,1091,147,2,Clothing,Shirt,COD
+B-25928,1945,230,3,Electronics,Accessories,EMI
+B-26005,4551,147,3,Clothing,Stole,COD
+B-25963,1139,216,3,Furniture,Furnishings,UPI
+B-25952,1353,450,9,Clothing,Skirt,COD
+B-25683,2497,297,6,Clothing,Saree,COD
+B-25914,1543,174,3,Clothing,Stole,EMI
+B-25828,247,375,3,Clothing,Saree,Debit Card
+B-25743,1555,355,5,Clothing,Saree,UPI
+B-26085,158,432,2,Clothing,Saree,COD
+B-25869,823,22,3,Clothing,Saree,COD
+B-25773,573,187,4,Clothing,Saree,COD
+B-25700,1343,392,5,Clothing,Shirt,Debit Card
+B-25921,2674,347,2,Electronics,Accessories,COD
+B-25730,4127,53,3,Furniture,Chairs,COD
+B-26083,202,109,2,Electronics,Accessories,UPI
+B-25849,11,328,3,Electronics,Phones,UPI
+B-25909,2466,133,5,Electronics,Phones,UPI
+B-26038,3977,450,3,Clothing,Shirt,Debit Card
+B-25999,1137,221,5,Clothing,Saree,COD
+B-25928,1897,58,1,Furniture,Furnishings,UPI
+B-25878,3720,197,5,Clothing,Stole,UPI
+B-25843,2584,234,2,Clothing,Stole,UPI
+B-25959,342,91,3,Clothing,Shirt,COD
+B-25630,2802,79,5,Clothing,Stole,Debit Card
+B-25858,1861,210,2,Clothing,Shirt,COD
+B-26096,1133,67,4,Clothing,Shirt,UPI
+B-25838,4503,95,7,Clothing,Hankerchief,COD
+B-25943,144,343,5,Clothing,Hankerchief,Debit Card
+B-25780,3049,410,3,Electronics,Phones,Debit Card
+B-25949,4299,333,2,Clothing,Trousers,Debit Card
+B-25892,1219,397,3,Clothing,Shirt,UPI
+B-26054,2039,43,5,Clothing,Stole,UPI
+B-25988,53,379,9,Clothing,Skirt,COD
+B-25939,4522,282,3,Electronics,Accessories,UPI
+B-26083,2115,283,3,Clothing,T-shirt,Debit Card
+B-26078,2168,48,2,Clothing,T-shirt,UPI
+B-25902,2364,113,7,Clothing,Saree,COD
+B-25676,2917,249,4,Clothing,Shirt,COD
+B-26016,3162,424,3,Electronics,Electronic Games,UPI
+B-25950,4060,230,5,Clothing,Stole,UPI
+B-26056,1327,233,7,Clothing,Hankerchief,UPI
+B-25645,4518,205,1,Electronics,Printers,UPI
+B-25906,2779,259,3,Clothing,Stole,COD
+B-26017,2177,284,1,Furniture,Chairs,COD
+B-25644,261,423,8,Furniture,Furnishings,COD
+B-25679,562,257,1,Clothing,Saree,COD
+B-25854,1238,252,3,Clothing,Hankerchief,COD
+B-25670,2875,241,3,Clothing,Stole,COD
+B-25792,1893,322,3,Clothing,Stole,COD
+B-25808,1472,114,3,Electronics,Electronic Games,Debit Card
+B-25750,2691,386,1,Furniture,Bookcases,COD
+B-26051,4096,397,3,Clothing,Stole,UPI
+B-26076,2351,303,5,Clothing,Shirt,EMI
+B-25946,1560,285,2,Electronics,Phones,Debit Card
+B-25648,646,96,4,Clothing,Saree,EMI
+B-25992,713,256,3,Clothing,Shirt,UPI
+B-25848,3278,276,3,Furniture,Furnishings,Debit Card
+B-25697,4269,448,1,Electronics,Phones,COD
+B-25659,167,29,7,Clothing,T-shirt,Debit Card
+B-25716,2250,222,4,Clothing,Saree,UPI
+B-25652,2277,206,3,Clothing,Leggings,UPI
+B-26093,3048,455,3,Clothing,Saree,Debit Card
+B-25725,4152,292,4,Electronics,Electronic Games,COD
+B-25661,4329,3,5,Furniture,Chairs,UPI
+B-25693,2687,243,1,Electronics,Phones,COD
+B-25910,3671,200,5,Clothing,Shirt,EMI
+B-25943,1637,195,3,Clothing,Saree,Debit Card
+B-26100,4307,116,2,Clothing,Shirt,COD
+B-25830,2857,323,8,Clothing,Skirt,COD
+B-25932,2077,59,4,Furniture,Furnishings,COD
+B-25929,4227,65,3,Furniture,Chairs,EMI
+B-25708,502,438,8,Furniture,Furnishings,COD
+B-25921,2220,294,5,Clothing,T-shirt,UPI
+B-25755,954,305,2,Clothing,Stole,UPI
+B-25640,198,423,4,Clothing,Saree,EMI
+B-25838,3163,448,5,Clothing,Hankerchief,COD
+B-26025,1986,171,3,Clothing,Stole,EMI
+B-25789,3791,167,9,Furniture,Furnishings,COD
+B-25697,3689,29,3,Clothing,Stole,COD
+B-25797,1166,432,2,Furniture,Bookcases,UPI
+B-26064,4234,125,6,Clothing,T-shirt,Credit Card
+B-25732,80,27,2,Clothing,Stole,UPI
+B-25654,1742,339,3,Furniture,Furnishings,Credit Card
+B-25750,2621,83,12,Clothing,Skirt,UPI
+B-25751,3590,132,6,Clothing,Hankerchief,COD
+B-25889,886,246,7,Clothing,Kurti,Credit Card
+B-25683,3743,387,3,Furniture,Furnishings,EMI
+B-25602,193,251,8,Clothing,Saree,Credit Card
+B-25871,3948,91,4,Clothing,Hankerchief,Credit Card
+B-25953,3384,94,1,Electronics,Accessories,Credit Card
+B-25950,870,112,10,Clothing,Hankerchief,EMI
+B-26091,319,397,3,Clothing,Stole,EMI
+B-25753,3108,401,3,Electronics,Accessories,COD
+B-25611,2939,322,2,Clothing,Saree,EMI
+B-25935,108,92,3,Furniture,Chairs,EMI
+B-25886,4378,313,4,Clothing,T-shirt,COD
+B-25833,2601,218,5,Clothing,Hankerchief,UPI
+B-25665,3085,200,4,Electronics,Accessories,EMI
+B-25694,4110,344,7,Clothing,T-shirt,EMI
+B-25668,4056,427,3,Furniture,Furnishings,COD
+B-25945,2452,303,2,Clothing,Shirt,COD
+B-25954,1579,450,5,Clothing,Saree,COD
+B-25818,2950,94,9,Clothing,Hankerchief,UPI
+B-25861,143,295,5,Clothing,Hankerchief,COD
+B-25721,4457,284,7,Clothing,Skirt,UPI
+B-26024,2427,70,6,Clothing,Stole,Debit Card
+B-26056,76,114,3,Clothing,Stole,UPI
+B-26050,4018,399,4,Clothing,Saree,Debit Card
+B-25708,2409,442,2,Clothing,Stole,COD
+B-25651,3460,160,3,Clothing,Stole,UPI
+B-25616,3674,75,5,Clothing,Stole,Credit Card
+B-25827,1962,324,3,Furniture,Chairs,COD
+B-25996,46,371,6,Clothing,Skirt,COD
+B-25830,1323,68,2,Clothing,Saree,UPI
+B-25951,1449,372,9,Clothing,Hankerchief,Credit Card
+B-25713,1728,53,4,Furniture,Chairs,UPI
+B-25678,784,284,2,Clothing,Skirt,UPI
+B-25901,1515,229,2,Clothing,Hankerchief,UPI
+B-25798,868,439,4,Clothing,Hankerchief,COD
+B-25902,2378,334,4,Electronics,Accessories,COD
+B-25851,938,109,3,Clothing,Saree,COD
+B-25944,1657,336,3,Clothing,Saree,Debit Card
+B-25939,1101,307,2,Electronics,Accessories,COD
+B-25656,2500,420,2,Clothing,Saree,COD
+B-25695,1219,286,9,Clothing,Shirt,Debit Card
+B-25781,2581,97,8,Clothing,Hankerchief,COD
+B-25783,4553,290,1,Clothing,Stole,UPI
+B-25867,2662,14,4,Clothing,Shirt,COD
+B-25993,3449,407,1,Electronics,Printers,Debit Card
+B-25755,4591,402,2,Furniture,Bookcases,UPI
+B-25880,1391,409,2,Clothing,Stole,Credit Card
+B-25941,2768,456,4,Clothing,Shirt,Debit Card
+B-25757,976,246,7,Clothing,Hankerchief,Credit Card
+B-25754,1556,249,5,Clothing,Leggings,UPI
+B-25653,762,228,3,Electronics,Accessories,UPI
+B-25821,1602,159,4,Clothing,Stole,COD
+B-25706,2300,378,4,Clothing,Stole,COD
+B-26064,1116,380,2,Clothing,Saree,Debit Card
+B-25803,2449,356,3,Clothing,Trousers,Credit Card
+B-26076,41,167,2,Clothing,T-shirt,COD
+B-25603,2791,457,3,Clothing,Trousers,Debit Card
+B-25903,918,386,2,Furniture,Furnishings,COD
+B-25938,4477,111,3,Clothing,Stole,COD
+B-25868,1245,244,2,Electronics,Accessories,UPI
+B-25956,4336,287,2,Clothing,Hankerchief,COD
+B-25652,1192,396,7,Clothing,Skirt,COD
+B-25883,283,104,8,Clothing,Leggings,Credit Card
+B-26096,884,314,2,Clothing,Saree,Credit Card
+B-25969,739,351,6,Clothing,T-shirt,UPI
+B-25951,460,14,2,Clothing,Stole,Credit Card
+B-25855,4264,46,2,Clothing,Hankerchief,Credit Card
+B-26091,1614,217,4,Clothing,Leggings,COD
+B-25954,2454,400,4,Furniture,Furnishings,Debit Card
+B-25763,1382,109,3,Furniture,Chairs,COD
+B-25945,3020,309,3,Clothing,Saree,UPI
+B-25740,512,249,2,Clothing,Saree,COD
+B-25818,3699,169,2,Furniture,Furnishings,UPI
+B-25603,1170,368,3,Clothing,Saree,EMI
+B-25964,2549,29,4,Clothing,Stole,EMI
+B-25930,3096,447,9,Clothing,T-shirt,EMI
+B-25930,2590,33,2,Clothing,Hankerchief,COD
+B-25879,2645,151,2,Clothing,Kurti,COD
+B-25903,3307,65,4,Clothing,Hankerchief,EMI
+B-25614,2476,75,2,Electronics,Electronic Games,Credit Card
+B-25750,2508,63,3,Clothing,Stole,COD
+B-25852,3427,162,2,Clothing,Stole,Credit Card
+B-26008,4313,440,5,Clothing,Leggings,COD
+B-26092,1291,348,2,Clothing,T-shirt,Credit Card
+B-25689,907,244,2,Clothing,Stole,Credit Card
+B-25730,1343,339,5,Clothing,Stole,Credit Card
+B-25885,2193,33,2,Clothing,Shirt,Credit Card
+B-25999,410,360,1,Clothing,Stole,COD
+B-26011,3224,209,2,Clothing,Stole,Credit Card
+B-25754,840,382,4,Clothing,Stole,Credit Card
+B-26030,2860,97,6,Clothing,Hankerchief,Credit Card
+B-25851,2922,141,2,Clothing,T-shirt,COD
+B-25870,955,208,3,Furniture,Furnishings,COD
+B-26074,2744,3,4,Clothing,Leggings,COD
+B-25861,2188,357,3,Clothing,Saree,COD
+B-25797,1032,294,5,Clothing,Saree,Credit Card
+B-25993,2856,111,7,Furniture,Furnishings,COD
+B-25799,1543,216,3,Clothing,Saree,Debit Card
+B-25721,271,359,5,Clothing,Shirt,UPI
+B-26056,844,318,4,Clothing,Hankerchief,Debit Card
+B-25743,2418,271,4,Clothing,Hankerchief,COD
+B-25854,2319,233,4,Clothing,Stole,Credit Card
+B-25748,2873,127,3,Electronics,Phones,UPI
+B-25976,196,437,4,Clothing,T-shirt,UPI
+B-25953,2491,227,5,Clothing,Stole,Credit Card
+B-25996,1342,390,1,Clothing,Saree,UPI
+B-25717,94,183,2,Furniture,Chairs,COD
+B-25865,1047,36,3,Clothing,Saree,Credit Card
+B-25959,2497,55,2,Electronics,Phones,UPI
+B-25855,710,120,1,Furniture,Bookcases,COD
+B-25703,733,277,2,Clothing,Stole,UPI
+B-26049,1115,114,2,Clothing,Hankerchief,UPI
+B-25755,693,265,5,Clothing,Stole,UPI
+B-26070,1882,350,1,Clothing,Trousers,UPI
+B-25755,1649,20,2,Clothing,Saree,UPI
+B-26047,4267,69,5,Clothing,Skirt,COD
+B-25604,1713,165,9,Clothing,Saree,UPI
+B-25651,1818,231,4,Furniture,Bookcases,UPI
+B-25983,38,114,2,Clothing,Saree,UPI
+B-26056,1676,37,3,Furniture,Bookcases,Debit Card
+B-25940,105,122,2,Clothing,Stole,COD
+B-25766,68,267,2,Clothing,Saree,Debit Card
+B-25935,614,302,3,Clothing,Hankerchief,COD
+B-25970,4031,79,2,Electronics,Printers,UPI
+B-26053,3062,366,3,Electronics,Accessories,UPI
+B-25947,4531,359,6,Clothing,Hankerchief,COD
+B-25856,2190,409,1,Clothing,Saree,COD
+B-26030,4163,92,4,Electronics,Accessories,Debit Card
+B-26069,436,372,2,Clothing,Kurti,COD
+B-25653,4004,155,8,Electronics,Accessories,Debit Card
+B-25627,1882,396,4,Clothing,Stole,COD
+B-25947,1859,289,2,Electronics,Accessories,UPI
+B-25801,578,178,4,Clothing,Saree,COD
+B-25964,1994,169,5,Clothing,Saree,COD
+B-25950,4476,83,2,Clothing,Stole,COD
+B-25878,2116,327,3,Clothing,T-shirt,Credit Card
+B-25773,396,349,2,Electronics,Electronic Games,UPI
+B-26081,3011,137,4,Clothing,Stole,UPI
+B-26027,1948,203,4,Clothing,T-shirt,COD
+B-25967,4258,194,9,Clothing,Saree,Debit Card
+B-25901,1557,451,3,Clothing,Hankerchief,UPI
+B-25951,2601,72,2,Electronics,Phones,Debit Card
+B-25853,1561,151,2,Clothing,Saree,UPI
+B-25923,3468,411,1,Clothing,Trousers,Debit Card
+B-25793,406,159,4,Clothing,Saree,Debit Card
+B-26068,985,308,5,Electronics,Accessories,COD
+B-26080,2892,350,6,Clothing,T-shirt,COD
+B-25843,2459,320,3,Electronics,Accessories,COD
+B-26002,552,130,7,Clothing,Saree,COD
+B-25993,4000,74,4,Furniture,Furnishings,UPI
+B-26070,2579,205,4,Clothing,Shirt,COD
+B-25887,727,109,6,Clothing,Shirt,EMI
+B-25654,3924,428,3,Clothing,Saree,COD
+B-25898,3023,7,3,Clothing,T-shirt,COD
+B-25664,1079,427,2,Electronics,Phones,Debit Card
+B-26012,2099,389,2,Clothing,Saree,COD
+B-25979,3353,430,3,Clothing,Kurti,EMI
+B-26054,3429,431,3,Clothing,Stole,COD
+B-25757,2810,395,2,Clothing,Stole,COD
+B-25623,1768,14,4,Clothing,Stole,COD
+B-25824,504,143,2,Furniture,Furnishings,COD
+B-25754,2658,307,2,Electronics,Printers,Debit Card
+B-25693,3868,7,5,Clothing,T-shirt,EMI
+B-25638,2004,405,3,Clothing,Hankerchief,COD
+B-25922,2906,459,2,Clothing,Stole,COD
+B-25919,3018,68,6,Electronics,Electronic Games,UPI
+B-25989,2456,99,7,Clothing,Hankerchief,UPI
+B-25999,4182,451,2,Electronics,Electronic Games,COD
+B-25661,2493,192,3,Furniture,Chairs,COD
+B-26099,2639,162,4,Clothing,Hankerchief,COD
+B-25866,767,287,2,Clothing,Stole,COD
+B-26098,4125,152,3,Electronics,Accessories,EMI
+B-26062,2050,182,2,Clothing,Stole,COD
+B-25761,1745,36,9,Electronics,Electronic Games,Debit Card
+B-25843,2293,385,6,Clothing,Skirt,COD
+B-25683,3330,254,4,Electronics,Phones,UPI
+B-25959,3240,316,6,Clothing,Hankerchief,EMI
+B-25787,3029,163,8,Electronics,Accessories,COD
+B-25951,2477,458,1,Electronics,Electronic Games,COD
+B-26056,1832,282,2,Electronics,Accessories,COD
+B-25643,3511,276,2,Electronics,Electronic Games,Debit Card
+B-26093,2559,78,5,Clothing,Leggings,EMI
+B-25775,341,20,2,Clothing,Stole,COD
+B-26093,3174,154,4,Clothing,Hankerchief,COD
+B-25851,4140,76,9,Clothing,T-shirt,UPI
+B-25685,442,119,3,Furniture,Furnishings,Debit Card
+B-25651,3969,394,1,Clothing,Shirt,COD
+B-25793,3230,271,6,Clothing,Kurti,COD
+B-25708,723,218,7,Clothing,Stole,EMI
+B-25847,772,263,10,Furniture,Furnishings,Debit Card
+B-25954,2690,57,2,Clothing,Shirt,COD
+B-25997,3767,101,1,Clothing,Hankerchief,COD
+B-25650,1730,115,2,Electronics,Printers,UPI
+B-25883,102,23,5,Clothing,Hankerchief,UPI
+B-25945,4089,195,2,Furniture,Bookcases,COD
+B-25981,852,187,2,Furniture,Bookcases,UPI
+B-25862,1948,54,3,Clothing,Stole,EMI
+B-25877,559,30,5,Furniture,Chairs,Debit Card
+B-26090,945,404,3,Clothing,Stole,EMI
+B-26050,195,14,6,Clothing,Hankerchief,COD
+B-26072,3286,139,3,Electronics,Electronic Games,COD
+B-25916,3363,245,9,Clothing,Skirt,EMI
+B-25722,1191,330,8,Clothing,Stole,COD
+B-25746,674,356,2,Clothing,Saree,UPI
+B-25753,102,111,5,Furniture,Furnishings,COD
+B-25956,2020,440,2,Electronics,Phones,COD
+B-25996,3816,134,2,Clothing,Stole,COD
+B-25896,2963,458,2,Furniture,Furnishings,EMI
+B-25796,1282,450,7,Clothing,Stole,EMI
+B-25798,4293,96,2,Clothing,Stole,COD
+B-26043,3525,385,4,Clothing,Stole,UPI
+B-26028,441,27,2,Clothing,Shirt,EMI
+B-25812,743,44,5,Clothing,Hankerchief,UPI
+B-25605,1615,374,7,Clothing,Saree,EMI
+B-25702,3324,397,3,Clothing,Shirt,EMI
+B-25940,2857,349,4,Clothing,Leggings,COD
+B-26087,3731,74,3,Clothing,Hankerchief,COD
+B-25955,91,190,5,Electronics,Phones,COD
+B-25626,424,426,1,Electronics,Phones,COD
+B-25811,3082,392,4,Clothing,Hankerchief,UPI
+B-25856,4522,357,3,Clothing,Stole,EMI
+B-25628,3989,7,4,Clothing,Skirt,COD
+B-26016,1126,195,3,Clothing,Shirt,UPI
+B-25999,250,105,2,Electronics,Phones,UPI
+B-26043,1432,159,7,Clothing,Stole,UPI
+B-25743,3930,106,3,Clothing,Stole,UPI
+B-26014,3206,239,5,Furniture,Chairs,Debit Card
+B-25876,2449,200,4,Clothing,Trousers,Debit Card
+B-25785,2828,432,2,Clothing,T-shirt,COD
+B-25810,3704,404,3,Clothing,Shirt,COD
+B-25833,1900,6,3,Clothing,Stole,COD
+B-25931,3538,11,3,Furniture,Chairs,UPI
+B-25852,2223,337,4,Clothing,Hankerchief,COD
+B-25738,708,162,3,Clothing,Saree,UPI
+B-25921,2931,240,5,Electronics,Accessories,UPI
+B-25685,2675,233,4,Clothing,Shirt,COD
+B-25996,1845,308,6,Clothing,Shirt,Debit Card
+B-25663,1164,409,2,Electronics,Printers,Debit Card
+B-25888,3529,309,3,Electronics,Phones,COD
+B-25677,3650,205,1,Electronics,Accessories,UPI
+B-26045,4029,232,6,Furniture,Furnishings,Debit Card
+B-26002,2455,144,2,Clothing,Saree,UPI
+B-25953,1800,162,3,Clothing,Hankerchief,COD
+B-25617,1733,152,5,Electronics,Electronic Games,Debit Card
+B-25702,1064,314,3,Clothing,Saree,Debit Card
+B-25799,1490,260,5,Clothing,Stole,UPI
+B-25985,4025,225,4,Clothing,Stole,COD
+B-25952,1834,403,3,Clothing,Hankerchief,COD
+B-25754,2352,412,5,Clothing,Saree,Debit Card
+B-25770,3201,149,12,Furniture,Chairs,UPI
+B-25954,3052,164,3,Clothing,Stole,COD
+B-25657,3164,144,4,Furniture,Chairs,COD
+B-25801,3945,7,2,Clothing,Stole,COD
+B-26000,2653,332,4,Clothing,Skirt,COD
+B-25897,4250,63,3,Clothing,Stole,COD
+B-25681,4126,201,3,Electronics,Accessories,UPI
+B-25852,1158,98,1,Electronics,Printers,Debit Card
+B-26067,235,209,4,Clothing,T-shirt,UPI
+B-25601,1430,134,5,Clothing,Stole,UPI
+B-25804,4093,389,3,Electronics,Printers,Debit Card
+B-25751,4327,221,2,Clothing,Saree,COD
+B-25630,3502,368,5,Clothing,Kurti,COD
+B-25899,412,109,1,Clothing,Saree,COD
+B-25751,740,245,3,Clothing,Shirt,COD
+B-26081,2932,444,5,Clothing,Saree,COD
+B-25851,4497,318,2,Electronics,Printers,COD
+B-26036,3636,210,7,Furniture,Furnishings,UPI
+B-25704,4380,240,3,Electronics,Phones,COD
+B-25761,584,96,3,Electronics,Electronic Games,Debit Card
+B-25978,1598,147,7,Clothing,Stole,Debit Card
+B-26077,2789,344,7,Clothing,Hankerchief,UPI
+B-25981,1211,42,3,Clothing,Leggings,COD
+B-26043,2453,68,5,Clothing,Hankerchief,UPI
+B-25896,4031,373,2,Clothing,Kurti,COD
+B-25790,185,322,1,Electronics,Electronic Games,COD
+B-25789,2410,302,5,Furniture,Bookcases,UPI
+B-26061,1508,46,2,Clothing,Stole,UPI
+B-25923,1866,263,3,Electronics,Accessories,COD
+B-25868,2581,409,1,Electronics,Phones,UPI
+B-25777,2660,145,4,Electronics,Accessories,UPI
+B-25999,1820,303,5,Clothing,Hankerchief,COD
+B-25854,1534,457,7,Furniture,Furnishings,Debit Card
+B-25667,1004,175,3,Clothing,Saree,Debit Card
+B-25829,3022,358,7,Clothing,Hankerchief,Debit Card
+B-25705,1139,351,2,Electronics,Electronic Games,COD
+B-25843,1999,231,5,Clothing,Hankerchief,COD
+B-25958,4071,55,3,Clothing,Saree,UPI
+B-25893,936,47,3,Electronics,Printers,UPI
+B-25855,2770,80,2,Clothing,Hankerchief,UPI
+B-25616,2974,278,5,Clothing,Hankerchief,COD
+B-25630,529,119,2,Clothing,Kurti,COD
+B-25936,4014,116,4,Clothing,Saree,UPI
+B-25830,1401,267,6,Clothing,Hankerchief,COD
+B-25930,3949,255,3,Clothing,T-shirt,COD
+B-25808,4492,387,2,Clothing,Stole,UPI
+B-25979,43,222,2,Clothing,Shirt,UPI
+B-25687,1821,60,1,Clothing,Stole,UPI
+B-26087,2040,342,2,Clothing,Stole,COD
+B-25764,28,313,2,Clothing,Saree,Debit Card
+B-25782,754,102,7,Furniture,Chairs,UPI
+B-25854,1362,445,3,Clothing,Hankerchief,COD
+B-26085,2075,397,2,Clothing,Stole,COD
+B-25630,1327,422,3,Clothing,Stole,COD
+B-25999,3952,89,8,Clothing,Stole,Debit Card
+B-25648,3551,342,4,Clothing,Saree,UPI
+B-25952,927,291,5,Clothing,Trousers,Debit Card
+B-25710,936,403,4,Clothing,T-shirt,UPI
+B-25685,694,209,2,Furniture,Furnishings,UPI
+B-25740,3165,445,3,Clothing,Stole,COD
+B-25973,1803,403,5,Clothing,Leggings,COD
+B-25769,35,445,2,Clothing,Saree,Debit Card
+B-25687,3743,79,2,Clothing,Saree,Debit Card
+B-25603,1125,117,1,Clothing,Kurti,COD
+B-26050,3287,309,2,Clothing,Stole,COD
+B-25748,3247,447,4,Clothing,Shirt,UPI
+B-25833,3757,14,9,Clothing,Hankerchief,COD
+B-25930,1582,45,5,Electronics,Electronic Games,COD
+B-26035,46,188,3,Electronics,Electronic Games,Debit Card
+B-25851,811,109,6,Clothing,Hankerchief,EMI
+B-25718,2644,358,1,Furniture,Bookcases,Debit Card
+B-25898,2685,350,4,Clothing,Saree,COD
+B-25893,1048,123,7,Clothing,Shirt,COD
+B-25983,2643,179,6,Clothing,T-shirt,EMI
+B-26056,663,10,6,Electronics,Phones,Debit Card
+B-25715,3813,402,3,Electronics,Phones,Debit Card
+B-25702,2381,428,9,Furniture,Chairs,Debit Card
+B-25618,3646,206,1,Furniture,Bookcases,COD
+B-25643,3778,105,1,Electronics,Electronic Games,COD
+B-25961,3138,404,3,Clothing,Skirt,COD
+B-25873,506,15,3,Electronics,Electronic Games,UPI
+B-26053,1381,254,7,Clothing,Saree,Debit Card
+B-25683,1650,35,3,Electronics,Printers,Debit Card
+B-25718,4202,295,3,Furniture,Bookcases,Debit Card
+B-25753,2105,262,5,Clothing,Kurti,COD
+B-25852,2223,92,1,Clothing,Stole,EMI
+B-25914,518,149,3,Furniture,Chairs,Debit Card
+B-26083,2341,436,3,Clothing,Saree,COD
+B-25857,913,145,2,Furniture,Furnishings,UPI
+B-25939,60,122,4,Electronics,Electronic Games,Debit Card
+B-25851,2381,60,2,Clothing,Saree,UPI
+B-25699,3915,396,5,Clothing,Leggings,COD
+B-26078,4405,405,3,Clothing,Stole,COD
+B-26075,4114,309,2,Clothing,Stole,COD
+B-25956,3732,30,4,Electronics,Phones,Debit Card
+B-25861,4524,66,2,Clothing,Stole,EMI
+B-25777,2508,318,4,Clothing,Kurti,UPI
+B-25634,2317,189,3,Furniture,Chairs,UPI
+B-25753,1431,122,8,Clothing,Stole,COD
+B-25687,1203,323,3,Clothing,T-shirt,COD
+B-25885,3419,232,2,Furniture,Bookcases,UPI
+B-25767,1983,285,2,Clothing,Saree,EMI
+B-25961,3954,287,5,Clothing,Leggings,COD
+B-25923,375,276,3,Electronics,Printers,Debit Card
+B-25799,3545,457,4,Clothing,Saree,EMI
+B-25955,3944,450,4,Clothing,Skirt,EMI
+B-26015,1106,27,1,Clothing,Saree,COD
+B-26051,1585,431,5,Furniture,Bookcases,COD
+B-25822,3200,118,2,Clothing,Saree,COD
+B-25989,3133,173,3,Clothing,Hankerchief,Credit Card
+B-25910,4050,233,2,Clothing,Shirt,COD
+B-25956,76,390,3,Clothing,Hankerchief,COD
+B-25986,1226,444,3,Electronics,Printers,Debit Card
+B-26098,3228,130,3,Furniture,Chairs,Debit Card
+B-26061,1180,400,2,Electronics,Accessories,Debit Card
+B-25954,607,316,2,Electronics,Electronic Games,Debit Card
+B-26034,1570,233,5,Electronics,Accessories,UPI
+B-25909,4205,198,3,Clothing,Saree,COD
+B-25692,3973,297,7,Furniture,Furnishings,UPI
+B-25959,937,340,3,Furniture,Chairs,UPI
+B-25745,3774,352,3,Clothing,Stole,Credit Card
+B-25689,3903,417,3,Clothing,Stole,UPI
+B-25786,2758,291,3,Clothing,Stole,Credit Card
+B-25897,4000,101,3,Clothing,Hankerchief,COD
+B-26056,1551,10,2,Clothing,Hankerchief,COD
+B-25855,1777,28,2,Electronics,Electronic Games,UPI
+B-25667,4072,396,5,Clothing,Skirt,Credit Card
+B-25701,2703,369,5,Clothing,Hankerchief,COD
+B-26046,4299,402,8,Clothing,Hankerchief,COD
+B-25676,1381,78,3,Clothing,Shirt,COD
+B-26045,965,355,1,Clothing,Saree,UPI
+B-25889,1292,267,1,Clothing,Kurti,COD
+B-25900,441,163,5,Clothing,T-shirt,COD
+B-25685,2722,255,3,Electronics,Phones,Debit Card
+B-25622,4581,323,3,Clothing,Saree,Debit Card
+B-25709,4374,212,1,Furniture,Chairs,Credit Card
+B-25798,3573,433,2,Clothing,Saree,COD
+B-25933,119,338,3,Clothing,Stole,COD
+B-25793,2741,204,5,Clothing,Hankerchief,Credit Card
+B-25951,2499,106,1,Electronics,Accessories,Credit Card
+B-25656,2906,180,3,Clothing,Saree,Debit Card
+B-26056,3752,99,2,Clothing,Hankerchief,COD
+B-25870,2345,148,9,Clothing,Hankerchief,UPI
+B-25690,862,333,3,Clothing,Skirt,COD
+B-25702,2343,10,4,Clothing,Saree,COD
+B-25752,2479,432,6,Clothing,T-shirt,UPI
+B-25781,4178,163,2,Clothing,T-shirt,COD
+B-26038,2778,67,1,Clothing,T-shirt,COD
+B-25761,125,22,3,Clothing,Saree,Credit Card
+B-25751,3270,94,2,Electronics,Electronic Games,Debit Card
+B-25750,659,47,7,Furniture,Furnishings,Debit Card
+B-25726,3685,393,8,Furniture,Bookcases,UPI
+B-26048,3778,141,2,Electronics,Accessories,COD
+B-26051,3740,64,6,Clothing,T-shirt,UPI
+B-25614,2974,190,4,Furniture,Bookcases,COD
+B-25907,1204,179,5,Clothing,Hankerchief,COD
+B-25789,1720,33,1,Clothing,Kurti,COD
+B-26097,1844,150,2,Clothing,Leggings,Credit Card
+B-25902,4197,441,3,Clothing,Trousers,COD
+B-25657,2567,95,6,Electronics,Phones,UPI
+B-25854,2263,180,9,Clothing,Hankerchief,UPI
+B-25610,972,297,2,Furniture,Furnishings,COD
+B-25733,2574,72,2,Clothing,Stole,COD
+B-25798,574,146,3,Clothing,Stole,Credit Card
+B-25803,3093,440,3,Furniture,Chairs,UPI
+B-25755,3351,210,3,Clothing,Saree,Credit Card
+B-25850,1029,91,2,Electronics,Accessories,COD
+B-25667,332,331,4,Furniture,Bookcases,UPI
+B-25796,1099,418,2,Clothing,Trousers,Debit Card
+B-26013,2231,391,3,Clothing,Skirt,COD
+B-25683,1612,452,5,Clothing,Stole,UPI
+B-26054,2172,432,2,Electronics,Electronic Games,Debit Card
+B-26010,3238,38,3,Electronics,Electronic Games,COD
+B-25979,1723,170,3,Clothing,Saree,Debit Card
+B-25973,471,170,12,Clothing,Stole,Debit Card
+B-25975,4025,331,3,Clothing,Skirt,COD
+B-26010,978,54,2,Clothing,Stole,COD
+B-25767,3131,315,3,Clothing,Saree,COD
+B-25815,2546,66,2,Clothing,Stole,Credit Card
+B-25853,1763,450,3,Electronics,Printers,Debit Card
+B-25756,2178,117,4,Clothing,Leggings,COD
+B-25755,2388,147,4,Furniture,Bookcases,Debit Card
+B-25996,3211,116,2,Furniture,Furnishings,COD
+B-25619,483,429,8,Clothing,Saree,COD
+B-26050,984,389,2,Electronics,Printers,COD
+B-26000,3161,420,4,Furniture,Chairs,Debit Card
+B-26058,172,35,7,Clothing,Hankerchief,COD
+B-25856,3728,183,5,Clothing,Saree,COD
+B-26044,559,409,3,Clothing,Skirt,COD
+B-25654,3288,241,3,Clothing,Hankerchief,Credit Card
+B-26051,3164,130,5,Electronics,Electronic Games,Debit Card
+B-25636,2976,271,5,Clothing,Saree,UPI
+B-25710,699,148,7,Furniture,Furnishings,Debit Card
+B-25656,3544,294,2,Electronics,Electronic Games,Debit Card
+B-25919,1338,400,1,Clothing,T-shirt,COD
+B-25781,2995,131,7,Electronics,Printers,UPI
+B-25899,1100,395,4,Clothing,Skirt,COD
+B-26093,987,137,1,Clothing,Saree,Credit Card
+B-25753,354,135,2,Clothing,Hankerchief,COD
+B-25858,5,20,2,Clothing,Skirt,COD
+B-25762,3447,60,3,Clothing,Skirt,COD
+B-25625,4424,346,5,Clothing,Saree,Debit Card
+B-25857,2056,64,4,Furniture,Bookcases,UPI
+B-25919,3448,363,2,Electronics,Printers,Debit Card
+B-25864,1979,247,2,Clothing,Hankerchief,COD
+B-25698,3884,79,4,Clothing,Hankerchief,COD
+B-25959,104,108,8,Electronics,Phones,Debit Card
+B-26073,3440,348,9,Clothing,Stole,UPI
+B-25649,599,174,2,Clothing,Stole,COD
+B-25806,1990,31,4,Furniture,Tables,UPI
+B-25756,509,121,2,Electronics,Printers,Debit Card
+B-26003,1812,250,6,Furniture,Furnishings,Debit Card
+B-25752,2243,50,1,Furniture,Chairs,Credit Card
+B-25783,2980,421,2,Clothing,Hankerchief,COD
+B-25802,3531,65,11,Electronics,Accessories,UPI
+B-25881,2222,277,2,Clothing,Leggings,COD
+B-25898,2146,272,4,Clothing,Shirt,UPI
+B-25696,501,302,3,Electronics,Printers,UPI
+B-25826,2965,11,2,Electronics,Printers,COD
+B-25745,3644,275,5,Furniture,Bookcases,Debit Card
+B-25943,1900,93,4,Clothing,Hankerchief,COD
+B-26051,3008,402,5,Furniture,Bookcases,Debit Card
+B-25624,952,340,3,Clothing,Hankerchief,COD
+B-25723,1136,187,1,Clothing,Stole,COD
+B-26052,3847,412,2,Clothing,Stole,COD
+B-25603,4244,221,1,Furniture,Chairs,COD
+B-25983,1283,406,1,Furniture,Chairs,Credit Card
+B-25650,3515,181,2,Clothing,Saree,Credit Card
+B-25656,75,19,5,Electronics,Printers,COD
+B-26018,3227,179,3,Furniture,Furnishings,UPI
+B-25783,3939,30,2,Clothing,Hankerchief,UPI
+B-25951,4179,93,2,Clothing,Kurti,UPI
+B-25974,1257,335,2,Furniture,Bookcases,COD
+B-25754,3397,39,2,Clothing,Saree,UPI
+B-26073,565,377,3,Clothing,Saree,UPI
+B-25796,1482,426,1,Electronics,Accessories,UPI
+B-25653,2875,80,2,Clothing,Saree,UPI
+B-25884,426,113,4,Clothing,Hankerchief,COD
+B-25650,3889,153,2,Clothing,Stole,UPI
+B-26045,2902,27,1,Clothing,Stole,UPI
+B-25672,2911,140,1,Clothing,Stole,UPI
+B-25949,988,113,3,Clothing,Hankerchief,COD
+B-25733,2959,413,4,Clothing,Hankerchief,COD
+B-25697,3337,87,5,Electronics,Printers,COD
+B-25893,1045,383,6,Electronics,Accessories,Debit Card
+B-25802,1113,24,1,Clothing,Shirt,COD
+B-25961,1593,293,3,Clothing,Skirt,UPI
+B-25751,3669,328,2,Electronics,Phones,COD
+B-25814,2407,231,4,Clothing,Saree,COD
+B-25702,1036,252,3,Furniture,Tables,UPI
+B-25896,3565,312,2,Clothing,Skirt,COD
+B-25969,3075,377,2,Electronics,Printers,UPI
+B-25778,3333,108,4,Electronics,Electronic Games,UPI
+B-25859,2074,233,2,Furniture,Bookcases,UPI
+B-25810,1077,95,4,Clothing,Hankerchief,UPI
+B-25616,2815,442,3,Clothing,Hankerchief,COD
+B-25633,3477,58,4,Clothing,Saree,Debit Card
+B-25753,3862,45,5,Clothing,T-shirt,COD
+B-25764,704,415,2,Electronics,Phones,Debit Card
+B-25864,3687,126,2,Clothing,Leggings,COD
+B-25725,2937,399,2,Clothing,Stole,UPI
+B-25858,3186,253,3,Clothing,Hankerchief,COD
+B-25817,2920,335,5,Electronics,Printers,UPI
+B-25703,4294,359,4,Clothing,Kurti,COD
+B-25610,3042,33,6,Electronics,Printers,Debit Card
+B-25652,1043,36,5,Clothing,Hankerchief,UPI
+B-25891,4291,454,2,Clothing,Hankerchief,UPI
+B-25764,1601,99,5,Clothing,T-shirt,COD
+B-25664,4588,166,2,Electronics,Phones,Debit Card
+B-25645,4267,57,5,Electronics,Phones,UPI
+B-26008,2604,79,1,Clothing,Stole,COD
+B-26061,627,184,5,Clothing,Saree,COD
+B-25781,1674,195,5,Clothing,Trousers,COD
+B-25999,3713,273,3,Electronics,Accessories,COD
+B-25783,78,153,3,Clothing,Shirt,COD
+B-25800,1972,373,3,Clothing,Leggings,COD
+B-26093,4333,246,2,Electronics,Accessories,UPI
+B-25638,899,65,3,Electronics,Printers,Debit Card
+B-26026,574,294,3,Clothing,Kurti,Credit Card
+B-25902,1677,230,7,Electronics,Accessories,COD
+B-25968,1701,44,7,Electronics,Accessories,UPI
+B-26099,4081,357,5,Electronics,Phones,Debit Card
+B-25699,1749,361,1,Electronics,Accessories,COD
+B-26076,1419,279,4,Furniture,Bookcases,COD
+B-25793,915,340,4,Clothing,Skirt,Credit Card
+B-25671,3815,234,3,Clothing,Trousers,UPI
+B-26040,4218,168,3,Clothing,Trousers,UPI
+B-26059,3783,13,1,Clothing,T-shirt,COD
+B-25725,717,44,7,Clothing,Hankerchief,Credit Card
+B-25855,1426,446,5,Furniture,Furnishings,UPI
+B-25738,2267,55,2,Electronics,Phones,COD
+B-25899,2868,69,2,Furniture,Chairs,Debit Card
+B-25608,581,455,6,Electronics,Printers,COD
+B-25904,4557,40,2,Furniture,Bookcases,UPI
+B-26056,1988,415,4,Clothing,Kurti,COD
+B-25669,2220,390,2,Furniture,Tables,COD
+B-25638,3059,48,8,Furniture,Furnishings,Debit Card
+B-25953,2757,381,4,Clothing,Hankerchief,Credit Card
+B-25841,2475,192,2,Clothing,Skirt,Credit Card
+B-26071,426,391,3,Clothing,Hankerchief,Credit Card
+B-25793,229,6,3,Clothing,Hankerchief,COD
+B-25813,4443,69,7,Furniture,Chairs,COD
+B-26010,3601,201,3,Clothing,Hankerchief,COD
+B-25825,1104,27,5,Electronics,Phones,Debit Card
+B-25630,3109,146,2,Electronics,Phones,COD
+B-25986,1905,167,9,Electronics,Electronic Games,COD
+B-25650,886,397,5,Electronics,Electronic Games,COD
+B-26078,4020,218,2,Clothing,Skirt,COD
+B-25890,3338,186,9,Clothing,Saree,COD
+B-25691,1219,132,3,Clothing,Stole,COD
+B-25952,372,17,4,Electronics,Electronic Games,UPI
+B-25651,4459,56,2,Clothing,T-shirt,COD
+B-25955,1047,116,3,Electronics,Printers,UPI
+B-25898,4584,21,3,Furniture,Tables,Debit Card
+B-25838,82,402,3,Electronics,Printers,Debit Card
+B-25797,47,383,4,Electronics,Accessories,COD
+B-25738,4114,456,6,Clothing,Saree,EMI
+B-25661,2254,423,3,Clothing,Hankerchief,Credit Card
+B-25997,217,308,3,Clothing,Hankerchief,COD
+B-25667,2198,311,8,Electronics,Printers,UPI
+B-25753,1732,359,6,Electronics,Accessories,COD
+B-25848,1942,223,2,Clothing,Hankerchief,COD
+B-26097,2042,138,2,Clothing,Hankerchief,Credit Card
+B-25633,2577,56,4,Electronics,Phones,UPI
+B-25807,3664,45,1,Clothing,Stole,COD
+B-25752,220,267,9,Furniture,Bookcases,COD
+B-26052,183,69,1,Clothing,Shirt,COD
+B-25610,1464,259,4,Electronics,Printers,COD
+B-25888,2332,196,3,Clothing,Hankerchief,Credit Card
+B-25937,250,152,3,Furniture,Bookcases,UPI
+B-25828,3233,220,1,Clothing,Leggings,COD
+B-26048,698,339,4,Clothing,Trousers,UPI
+B-25670,592,406,1,Clothing,Hankerchief,COD
+B-25757,2446,242,1,Clothing,Hankerchief,COD
+B-25751,1799,95,2,Clothing,Leggings,COD
+B-25687,1505,322,4,Clothing,Kurti,COD
+B-25710,3835,387,1,Clothing,T-shirt,COD
+B-25656,1355,345,3,Clothing,Hankerchief,COD
+B-25601,4134,170,7,Furniture,Bookcases,EMI
+B-26053,1131,55,2,Clothing,Skirt,Credit Card
+B-26001,149,379,2,Clothing,Hankerchief,COD
+B-25964,72,111,11,Electronics,Electronic Games,EMI
+B-26062,2640,433,1,Clothing,Stole,COD
+B-25982,2005,413,1,Clothing,Leggings,COD
+B-25864,4283,380,1,Clothing,Hankerchief,UPI
+B-25693,170,411,2,Clothing,Skirt,COD
+B-25802,2488,150,2,Clothing,Skirt,COD
+B-25676,2111,435,5,Clothing,Trousers,EMI
+B-25639,2513,182,3,Electronics,Phones,COD
+B-25757,1345,459,3,Clothing,Hankerchief,UPI
+B-26003,2502,335,2,Clothing,Skirt,UPI
+B-26055,3642,262,2,Electronics,Printers,EMI
+B-25786,126,328,3,Clothing,Skirt,UPI
+B-25919,3780,439,7,Electronics,Phones,COD
+B-25894,3138,72,3,Furniture,Bookcases,EMI
+B-25979,3012,338,2,Clothing,Hankerchief,COD
+B-25651,2468,386,2,Clothing,Skirt,COD
+B-25653,2913,363,8,Furniture,Chairs,EMI
+B-25855,4016,247,5,Electronics,Printers,COD
+B-25793,2779,55,11,Clothing,Saree,EMI
+B-26073,3328,85,4,Electronics,Printers,EMI
+B-25881,2214,192,6,Electronics,Electronic Games,COD
+B-25603,1123,6,5,Clothing,Trousers,COD
+B-25851,3296,236,2,Clothing,Hankerchief,COD
+B-25883,602,242,2,Clothing,Leggings,COD
+B-25768,3927,10,6,Clothing,Trousers,EMI
+B-25953,3057,395,9,Furniture,Bookcases,EMI
+B-25755,133,231,5,Clothing,Saree,UPI
+B-26057,59,367,5,Electronics,Printers,COD
+B-26055,2482,411,8,Furniture,Bookcases,COD
+B-25855,4252,300,8,Clothing,Saree,COD
+B-25989,3798,177,1,Clothing,Stole,COD
+B-26099,2026,217,5,Clothing,Trousers,UPI
+B-25652,4438,439,2,Clothing,Hankerchief,COD
+B-25723,1003,71,2,Clothing,Stole,UPI
+B-26099,3892,295,1,Clothing,Skirt,COD
+B-25629,2612,172,3,Clothing,Trousers,COD
+B-25877,409,173,2,Clothing,Trousers,EMI
+B-25767,2368,172,2,Clothing,Kurti,COD
+B-25735,2697,21,1,Clothing,Hankerchief,UPI
+B-26097,4437,83,1,Clothing,Hankerchief,UPI
+B-26070,3751,437,2,Clothing,Hankerchief,UPI
+B-25752,3701,70,2,Clothing,Hankerchief,COD
+B-25656,2190,197,7,Clothing,Saree,COD
+B-25748,1074,459,2,Clothing,Leggings,COD
+B-25758,3318,42,1,Clothing,Stole,COD
+B-25950,1095,130,1,Clothing,Leggings,UPI
+B-25707,464,128,1,Clothing,Stole,COD
+B-25909,3651,40,2,Clothing,Skirt,Credit Card
+B-25955,1626,211,7,Electronics,Accessories,COD
+B-26023,1772,254,10,Furniture,Bookcases,EMI
+B-25655,3186,140,2,Clothing,Skirt,Credit Card
+B-25686,4319,347,3,Electronics,Printers,COD
+B-25655,2631,180,3,Clothing,Hankerchief,COD
+B-25601,3790,151,3,Clothing,Hankerchief,Credit Card
+B-25862,2354,390,5,Furniture,Bookcases,UPI
+B-25626,733,30,3,Furniture,Chairs,EMI
+B-25823,569,209,8,Electronics,Electronic Games,UPI
+B-25881,3560,158,5,Furniture,Chairs,COD
+B-25910,1281,150,5,Electronics,Electronic Games,COD
+B-25830,2591,124,7,Electronics,Phones,EMI
+B-25978,1846,61,4,Electronics,Electronic Games,EMI
+B-25997,3411,105,7,Furniture,Bookcases,COD
+B-25661,3303,432,2,Clothing,Hankerchief,Credit Card
+B-25969,2536,251,7,Furniture,Bookcases,UPI
+B-25858,975,185,11,Electronics,Electronic Games,EMI
+B-25697,1194,332,1,Clothing,Skirt,Credit Card
+B-25798,875,341,13,Furniture,Bookcases,EMI
+B-25873,1759,181,1,Clothing,Hankerchief,COD
+B-25740,3911,440,2,Clothing,Skirt,COD
+B-25700,3846,215,2,Clothing,Hankerchief,COD
+B-25757,2404,434,7,Clothing,Trousers,EMI
+B-25973,4011,414,13,Electronics,Printers,COD
+B-25698,3796,381,1,Clothing,Hankerchief,COD
+B-25993,1877,287,5,Furniture,Tables,EMI
