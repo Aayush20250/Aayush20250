@@ -13,4 +13,5 @@ To view and interact with the Power BI dashboard:
 Feel free to reach out if you have any questions or need further assistance!
 
 ## Dashboard Preview
-![Dashboard Preview](https://user-images.githubusercontent.com/file-ojWFXqZUKxipciI0UCsprNf6)
+![Uploading Practice.png…]()
+
